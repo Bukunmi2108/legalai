@@ -2,10 +2,10 @@
 
 ## ✅ Checklist
 
-- [ ] 0.1 Choose ONE domain
-- [ ] 0.2 Define tasks (freeze them)
-- [ ] 1.1 Collect raw legal documents
-- [ ] 1.2 Normalize documents
+- [x] 0.1 Choose ONE domain
+- [x] 0.2 Define tasks (freeze them)
+- [x] 1.1 Collect raw legal documents
+- [x] 1.2 Normalize documents
 - [ ] 1.3 HARD SPLIT (critical)
 - [ ] 2.1 Create gold questions from EVAL docs
 - [ ] 2.2 Define evaluation rubric (freeze this)
@@ -33,9 +33,8 @@
 
 ### 0.1 Choose ONE domain
 
-Pick **one**:
-
-* Contract law (recommended)
+**Selected domain:**  
+* **Contract law** ✅
 * Employment law
 * Nigerian case law (Supreme Court only)
 
@@ -43,13 +42,11 @@ Pick **one**:
 
 ### 0.2 Define tasks (freeze them)
 
-Exactly 3 tasks:
+**Selected tasks (frozen):**
 
-1. Legal QA (doctrine)
-2. Case-based reasoning
-3. Citation fidelity
-
-No more, no less.
+1. Legal QA (doctrine) ✅
+2. Case-based reasoning ✅
+3. Citation fidelity ✅
 
 ---
 
@@ -61,7 +58,7 @@ Sources:
 
 * Court judgments (PDF/HTML)
 * Statutes
-* Contracts
+* Contracts [x]
 
 Target size:
 

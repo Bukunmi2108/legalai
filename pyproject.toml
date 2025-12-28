@@ -1,0 +1,10 @@
+[project]
+name = "legalai"
+version = "0.1.0"
+description = "AI Research for legal document analysis, retrieval, and automation"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+]

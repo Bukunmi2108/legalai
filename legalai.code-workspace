@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "name": "research",
+      "path": "."
+    },
+    {
+      "name": "rag_vs_finetuning",
+      "path": "./rag_vs_finetuning"
+    },
+  ]
+}
